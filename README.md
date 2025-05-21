@@ -12,13 +12,13 @@ This project detects **coughing**, **sneezing**, and other sound events using a 
 - Combine audio & sensor data to provide real-time health suggestions
 - Visualize recent data and alerts in a web-based dashboard
 
-### Components
+## Components
 
-## Hardware (Inputs/sensors)
+### Hardware (Inputs/sensors)
 - Microphone
 - DHT20 (temperature and humidity)
 
-## Software 
+### Software 
 -MQTT: Data transmittion
 -Cloud database
 -Python: Sensor reading, cloud uploading, model inference
