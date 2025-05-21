@@ -1,7 +1,7 @@
 # IoT
 This repository includes my project on the course of "Internet of Things"
 
-# THEME: Smart IoT System for Audio-Based Health Monitoring
+# Smart IoT System for Audio-Based Health Monitoring
 This project detects **coughing**, **sneezing**, and other sound events using a **microphone**, monitors **room temperature and humidity**, and suggests simple health-related recommendations based on real-time data.
 
 ## Project Objectives
