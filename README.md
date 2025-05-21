@@ -19,11 +19,11 @@ This project detects **coughing**, **sneezing**, and other sound events using a 
 - DHT20 (temperature and humidity)
 
 ### Software 
--MQTT: Data transmittion
--Cloud database
--Python: Sensor reading, cloud uploading, model inference
--Tensorflow / Keras: audio classification model
--Flask: Dashboard Visualization
+- MQTT: Data transmittion
+- Cloud database
+- Python: Sensor reading, cloud uploading, model inference
+- Tensorflow / Keras: audio classification model
+- Flask: Dashboard Visualization
   
 
 
